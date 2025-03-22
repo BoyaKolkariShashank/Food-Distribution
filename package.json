@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.772.0",
+    "@aws-sdk/lib-dynamodb": "^3.772.0",
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "firebase-admin": "^13.2.0",
+    "password-hash": "^1.2.2",
+    "uniqid": "^5.4.0",
+    "v3": "^0.0.0"
+  }
+}
